@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [02/Mar/2021:16:33:52 +0800] "GET /mavenlearn HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [02/Mar/2021:16:33:52 +0800] "GET /mavenlearn/ HTTP/1.1" 200 52 http-bio-8080-exec-3 435
+0:0:0:0:0:0:0:1 - - [02/Mar/2021:16:33:52 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [02/Mar/2021:16:34:10 +0800] "GET /mavenlearn/items/findDetail HTTP/1.1" 200 585 http-bio-8080-exec-5 1030
+0:0:0:0:0:0:0:1 - - [02/Mar/2021:16:36:49 +0800] "GET /mavenlearn/items/findDetail HTTP/1.1" 200 646 http-bio-8080-exec-1 389
